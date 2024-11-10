@@ -14,7 +14,7 @@ public class SpringJenkins1Application {
 		
 		
 		SpringApplication.run(SpringJenkins1Application.class, args);
-		logger.info("Application Started Successfully.. ");
+		
 	}
 
 }
