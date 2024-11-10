@@ -12,9 +12,9 @@ public class SpringJenkins1Application {
 	
 	public static void main(String[] args) {
 		
-		logger.info("Application Started Successfully.. ");
 		
 		SpringApplication.run(SpringJenkins1Application.class, args);
+		logger.info("Application Started Successfully.. ");
 	}
 
 }
