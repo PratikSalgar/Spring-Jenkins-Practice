@@ -12,7 +12,6 @@ public class SpringJenkins1Application {
 	
 	public static void main(String[] args) {
 		
-		System.out.println("Spring application started..");
 		SpringApplication.run(SpringJenkins1Application.class, args);
 		
 	}
